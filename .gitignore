@@ -1,0 +1,16 @@
+# Node dependencies
+ecommerce-frontend/node_modules
+
+# Laravel dependencies
+ecommerce-Backend/vendor
+ecommerce-Backend/node_modules
+
+# Environment files
+.ecommerce-Backend.env
+ecommerce-Backend/.env
+ecommerce-frontend/.env
+
+# Build directories
+ecommerce-frontend/build
+ecommerce-Backend/public/storage
+ecommerce-Backend/storage/*.key
